@@ -1,2 +1,2 @@
 # whatsapp-info
-A Web App to gai insights from whatsapp chats
+A Web App to gain insights from whatsapp chats
